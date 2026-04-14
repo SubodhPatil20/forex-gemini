@@ -1,4 +1,4 @@
-%%writefile main.py
+
 """
 Forex Binary Prediction Bot
 Accuracy-first | 5-min signals | No pandas_ta
